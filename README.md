@@ -1,2 +1,3 @@
 Hi there,
-I am Can Kütükoğlu and I am a fresh student at Bilkent University. I am studying computer science.
+I am Can Kütükoğlu.
+I am a fresh student at Bilkent University and I am studying computer science.
